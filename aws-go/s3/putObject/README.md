@@ -1,4 +1,4 @@
 
 ```shell
-go run putObject.go -b lsj-data-processing -f test.pdf
+go run putObject.go -b test-bucket -f test.pdf
 ```
